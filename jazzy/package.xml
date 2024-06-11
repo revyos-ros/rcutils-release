@@ -15,6 +15,9 @@
 
   <buildtool_depend>ament_cmake_ros</buildtool_depend>
   <buildtool_depend>ament_cmake_python</buildtool_depend>
+  <buildtool_depend>ament_cmake_export_targets</buildtool_depend>
+  <buildtool_depend>ament_cmake_export_dependencies</buildtool_depend>
+  <buildtool_depend>ament_cmake_export_include_directories</buildtool_depend>
   <buildtool_depend>python3-empy</buildtool_depend>
 
   <depend>libatomic</depend>
