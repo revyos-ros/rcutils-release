@@ -1,3 +1,26 @@
+## rcutils (jazzy) - 6.7.1-2
+
+The packages in the `rcutils` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy rcutils --override-release-repository-push-url git@github.com:revyos-ros/rcutils-release.git` on `Tue, 11 Jun 2024 12:11:52 -0000`
+
+The `rcutils` package was released.
+
+Version of package(s) in repository `rcutils`:
+
+- upstream repository: https://github.com/ros2/rcutils.git
+- release repository: https://github.com/revyos-ros/rcutils-release.git
+- rosdistro version: `6.7.1-1`
+- old version: `6.7.1-1`
+- new version: `6.7.1-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rcutils (humble) - 5.1.6-1
 
 The packages in the `rcutils` repository were released into the `humble` distro by running `/usr/bin/bloom-release -r humble -y rcutils` on `Wed, 15 May 2024 23:06:06 -0000`
